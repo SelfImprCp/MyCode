@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CPBlog</string>
+ <string name="www_kymjs_com">www.kymjs.com</string>
+   
+     <!-- bottombar -->
+     <string name="blog">博客</string>
+     <string name="find">发现</string>
+     <string name="mine">我的</string>
+    <!-- 发现界面 -->
+    <string name="tweet">我要吐槽</string>
+    <string name="osc_joke">OSC乱弹</string>
+    <string name="sticies">随手记</string>
+    <string name="follow">关注大神</string>
+    <string name="str_active_title">猿活动</string>
+    <string name="sticky">随手记</string>
+    
+    
+    
+     <!-- 每日资讯 -->
+    <string name="today_message">今日资 讯</string>
+    <string name="everyday_message_description">每日最新开发技术与业界资讯头条，时刻掌握前沿技术，不做OUT程序猿</string>
+      <!-- 吐槽界面 -->
+    <string name="str_tweet_title">神吐槽</string>
+    <string name="str_tweet_pub_record">来一发</string>
+    <string name="monkey_active">猿活动</string>
+    <string name="record_sound_notfound">糟糕，小屁孩把声音弄丢了</string>
+    
+    
+      <!-- 误操作提示 -->
+    <string name="account_not_empty">账号不能为空</string>
+    <string name="password_not_empty">密码不能为空</string>
+    
+    
+</resources>
